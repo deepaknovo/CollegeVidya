@@ -1,0 +1,35 @@
+.advisor-bt {
+    background-color: #5569DA;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+
+    /* width: 170px; */
+    .advisor {
+        font-size: 13px;
+        font-weight: bold;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .asisst {
+        font-size: 10px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+.clicktoknowtxt {
+    font-size: 10px;
+    text-align: end;
+    padding: 3px 6px;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #f2f3f8;
+    margin-top: 8px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

@@ -1,3 +1,14 @@
+Hi, 
+i have created this project in React use all static data along with MUI, bottstrap.
+Here I have created static screen and screen is responsive.
+Modals are open on following:
+Know Your Advisor,
+University Name,
+Click to know,
+Rating, 
+Fees,
+Add to compare
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+https://github.com/deepaknovo/CollegeVidya
